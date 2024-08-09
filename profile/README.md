@@ -10,5 +10,7 @@ Contact XX and provide your GitHub handle to request becoming a member of this G
 ## How do I publish our sample data? 
 Contact XX when you believe your private repository is ready to go public. Some criteria the organization reviewers will use include: 
 - Sample data files should total to <2GB
-- Sample data should be in located in a dedicated folder within the repository and/or hosted elsewhere (and accessed remotely by the notebook(s))
+- Sample data should be:
+  -- located in a dedicated folder within the repository; and/or
+  -- hosted elsewhere, and accessed remotely by the notebook(s)
 - Computational notebooks should be _runnable_ on a widely-used execution environment for lightweight notebooks, such as [Binder](https://mybinder.org/) or [MATLAB Online](https://www.mathworks.com/products/matlab-online.html)
