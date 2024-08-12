@@ -5,7 +5,7 @@ Computational notebooks are an excellent way to tell your story about an interes
 technologies include [Jupyter notebooks](https://jupyter.org/), [live scripts](https://www.mathworks.com/help/matlab/matlab_prog/what-is-a-live-script-or-function.html) (MATLAB), and [others](https://en.wikipedia.org/wiki/Notebook_interface).
 
 ## How do I create our sample data story? 
-Contact XX and provide your GitHub handle to request becoming a member of this GitHub organization. This will give you the privilige to create a private GitHub repository containing your sample data story w/ one or more computational notebook files. 
+Contact [XX](https://github.com/skmbl) and provide your GitHub handle to request becoming a member of this GitHub organization. This will give you the privilige to create a private GitHub repository containing your sample data story w/ one or more computational notebook files. 
 
 ## How do I publish our sample data? 
 Contact XX when you believe your private repository is ready to go public. Some criteria the organization reviewers will use include: 
